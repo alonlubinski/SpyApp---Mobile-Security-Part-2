@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_home"
+            android:title="@string/menu_home_str"
+            android:icon="@drawable/ic_home"/>
+
+        <item
+            android:id="@+id/menu_live_location"
+            android:title="@string/live_location_str"
+            android:icon="@drawable/ic_live"/>
+
+        <item
+            android:id="@+id/menu_history"
+            android:title="@string/menu_history_str"
+            android:icon="@drawable/ic_history"/>
+
+        <item
+            android:id="@+id/menu_hot_zones"
+            android:title="@string/menu_hot_zones_str"
+            android:icon="@drawable/ic_hot_zones"/>
+
+
+    </group>
+</menu>

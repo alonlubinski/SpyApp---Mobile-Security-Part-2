@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SpyApp</string>
+    <string name="phone_str">"Phone: "</string>
+    <string name="spy_str">Spy</string>
+    <string name="menu_home">Home</string>
+    <string name="live_location_str">Live Location</string>
+    <string name="menu_home_str">Home</string>
+    <string name="menu_history_str">History</string>
+    <string name="menu_hot_zones_str">Hot Zones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_phone_str">Enter Phone Number</string>
+    <string name="name_str">"Name: "</string>
+    <string name="location_str">"Location: "</string>
+    <string name="activity_str">"Activity: "</string>
+    <string name="live_spy_str">Live Spy</string>
+    <string name="history_str">History</string>
+    <string name="search_str">Search</string>
+    <string name="enter_date_str">Enter Date</string>
+    <string name="duration_str">"Duration: "</string>
+    <string name="activity_info_str">Activity Details</string>
+    <string name="start_time_str">"Start Time: "</string>
+    <string name="end_time_str">"End Time: "</string>
+    <string name="no_activities_found_str">No Activities Found</string>
+    <string name="hot_choose_str">"Choose activity: "</string>
+    <string name="map_str">"Map: "</string>
+    <string name="red_str">"Red "</string>
+    <string name="red_info_str">means high activity detected.</string>
+    <string name="yellow_str">"Yellow "</string>
+    <string name="green_str">"Green "</string>
+    <string name="yellow_info_str">means moderate activity detected.</string>
+    <string name="green_info_str">means low activity detected.</string>
+    <string name="live_location_details_str">Spy live location of someone, see his details and the location on the map.</string>
+    <string name="history_details_str">See every activity on specific day.</string>
+    <string name="hot_zones_details_str">See zones of high detected activity.</string>
+</resources>
